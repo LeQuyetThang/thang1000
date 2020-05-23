@@ -1,0 +1,46 @@
+.col-8{
+text-align: center;
+}
+.col-8 a{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.col-2{
+    margin-top: 1.5%;
+}
+.table1{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+.tenpt {
+    margin-left: 8%;
+    margin-right: 5%;
+}
+.tenpt1 {
+    margin-left: 12%;
+    font-weight: normal;
+}
+.tenpt2 {
+    padding-left: 17%;
+    font-weight: normal;
+}
+.tenpt3 {
+   margin-left: 18%;
+    font-weight: normal;
+}
+.table2{
+    font-weight: normal;
+    text-align: left;
+    margin-right: 4%;
+}
+.table3{
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.table4{
+    margin-left: 15%;
+    margin-top: 3%;
+    padding-bottom: 2%;
+}
